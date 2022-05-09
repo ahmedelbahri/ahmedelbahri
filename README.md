@@ -1,5 +1,5 @@
 <div align="center">
-    <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/colorfulwaves/ahel-bah" alt="ahel-bah's 42 stats" />
+    <a href="https://github.com/ahmdelbahri"><img src="https://badge.mediaplus.ma/darkblue/ahel-bah" alt="ahel-bah's 42 stats" />
     <br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedelbahri&layout=compact&card_width=445px&custom_title=Used&nbsp;Languages&theme=dark"/>
     <br>
