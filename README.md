@@ -5,5 +5,5 @@
     <br>
     <a href= "https://github.com/ahmedelbahri?tab=repositories"><img width="65%" src="https://github-readme-stats.vercel.app/api?username=ahmedelbahri&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/></a>
     <br>
-    <a href= "https://wakatime.com/@ahmedelbahri" target="blank"><img width="65%" src="https://github-readme-stats.vercel.app/api/wakatime?username=ahmedelbahri&layout=compact&theme=dark"/></a>
+    <a href= "https://wakatime.com/@ahmedelbahri" target="_blank"><img width="65%" src="https://github-readme-stats.vercel.app/api/wakatime?username=ahmedelbahri&layout=compact&theme=dark"/></a>
 </div>
