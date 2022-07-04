@@ -7,4 +7,6 @@
     <a href= "https://github.com/ahmedelbahri?tab=repositories"><img width="80%" src="https://github-readme-stats.vercel.app/api?username=ahmedelbahri&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/></a>
     <br>
     <a href= "https://wakatime.com/@ahmedelbahri" target="_blank"><img width="80%" src="https://github-readme-stats.vercel.app/api/wakatime?username=ahmedelbahri&layout=compact&theme=dark"/></a>
+    <br>
+    <a href="https://wakatime.com/@aea7c2cb-e609-4571-9549-0b3c0aa0de70"><img width=30% src="https://wakatime.com/badge/user/aea7c2cb-e609-4571-9549-0b3c0aa0de70.svg" alt="Total time coded since Dec 26 2021" /></a>
 </div>
