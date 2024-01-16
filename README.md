@@ -1,6 +1,6 @@
 <div align="center">
 <!--     <a href="https://github.com/JaeSeoKim/badge42"><img width="81%" src="https://badge42.vercel.app/api/v2/cl4tp6iw5002509mlgde2m0jm/stats?cursusId=21&coalitionId=75" alt="ahel-bah's 42 stats" /></a> -->
-    <a href="https://github.com/ahmedelbahri"><img width="80%" src="https://badge.mediaplus.ma/Kettlebells/ahel-bah" alt="ahel-bah's 42 stats" /></a>
+    <a href="https://github.com/ahmedelbahri"><img width="80%" src="https://badge.mediaplus.ma/kettlebells/ahel-bah" alt="ahel-bah's 42 stats" /></a>
     <br>
     <a href= "https://github.com/ahmedelbahri?tab=repositories"><img width="80%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedelbahri&layout=compact&card_width=445px&custom_title=Used&nbsp;Languages&theme=dark&count_private=true"/></a>
     <br>
