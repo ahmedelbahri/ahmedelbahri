@@ -14,5 +14,10 @@
     <br>
     <a href="https://wakatime.com/@aea7c2cb-e609-4571-9549-0b3c0aa0de70"><img src="https://wakatime.com/share/@ahmedelbahri/5e0ed911-c1c4-45c6-be76-02f41ba7b518.svg" alt="Total time coded since Dec 26 2021" /></a>
     <br>
+    <div align=center>Top time coded since Dec 26 2021:</div><br>
+    <div>15h 01min on Jan 11th 2024</div>
+    <div>13h 10min on Mar 19th 2023</div>
+    <div>11h 34min on Nov 24th 2023</div>
+    <br>
     <a href="https://wakatime.com/@aea7c2cb-e609-4571-9549-0b3c0aa0de70"><img width=30% src="https://wakatime.com/badge/user/aea7c2cb-e609-4571-9549-0b3c0aa0de70.svg" alt="Total time coded since Dec 26 2021" /></a>
 </div>
